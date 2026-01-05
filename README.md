@@ -4,6 +4,10 @@ A Manual AP for Crash Team Racing Nitro-Fueled
 **Win Condition**
 Collect a certain amount of Podium Points based on the challenges that you complete. There are three options for this, depending on how long/difficult you want the seed to be; Podium Champion (100 points), Podium Legend (200 points), or Podium Master (300 points). There are over 1300 points in total, but depending on how many options you have, you can plan you're routing around which check is worth more! Your points will update every time you complete a challenge within the client window.
 
+OR
+
+All Cups: Complete all 11 Cups
+
 **Point Values**
 Base Time Trial, Sapphire Relic - 1 point
 N. Tropy Time Trial, Gold Relic, CTR Challenge, Crystal Challenge - 2 points
